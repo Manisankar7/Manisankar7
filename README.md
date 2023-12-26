@@ -9,24 +9,13 @@
 
 <p align="center"> 
   
-  <a href="" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  alt="c" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> 
-  </a>&nbsp;
-   <a href="" target="_blank" rel="noreferrer"> 
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="c#" width="40" height="40"/> 
-  </a>&nbsp;
+ 
  <a href="" target="_blank" rel="noreferrer"> 
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a>&nbsp;
    <a href="" target="_blank" rel="noreferrer"> 
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>&nbsp;
-   <a href="" target="_blank" rel="noreferrer"> 
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="python" width="40" height="40"/> 
-  </a>&nbsp;          
+  </a>&nbsp;         
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"  alt="swift" width="40" height="40"/>
   </a>&nbsp;
